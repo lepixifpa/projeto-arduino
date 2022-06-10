@@ -1,12 +1,11 @@
 # Projeto Arduino
 
-Repositório para documentação das nosso progresso no estudo de Arduino
+Repositório para documentação do nosso progresso no estudo de Arduino
 
 ---
-Material usado:
-
-- [Simon Monk](https://drive.google.com/file/d/1QHLI6-yJKndiBsBljfefNFLN99VPtKsp/view?usp=sharing)
-<img src="https://images-na.ssl-images-amazon.com/images/I/81c3p6E1e5L.jpg" width="120">
+|Material usado |
+| :---: |
+| <img src="https://images-na.ssl-images-amazon.com/images/I/81c3p6E1e5L.jpg" width="120"><br>[Simon Monk](https://drive.google.com/file/d/1QHLI6-yJKndiBsBljfefNFLN99VPtKsp/view?usp=sharing) |
 
 ---
 | Participantes |
