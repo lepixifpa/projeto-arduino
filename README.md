@@ -1,6 +1,6 @@
 # Projeto Arduino
 
-Repositório para documentação das nosso progresso no estudo de Arduino
+Repositório para documentação do nosso progresso no estudo de Arduino
 
 ---
 |Material usado |
