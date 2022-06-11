@@ -5,7 +5,7 @@ void setup() {
   pinMode(led, OUTPUT);  // informa que o pino digital do led é de saída
 }
 
-// A funçã loop fica rodando indefinidamente
+// A função loop fica rodando indefinidamente
 void loop() {
   digitalWrite(led, HIGH);  // liga o LED
   delay(1000);              // 1s de espera
