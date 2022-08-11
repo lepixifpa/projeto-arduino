@@ -6,7 +6,7 @@ Repositório para documentação do nosso progresso no estudo de Arduino
 |Material usado |
 | :---: |
 | <img src="https://images-na.ssl-images-amazon.com/images/I/81c3p6E1e5L.jpg" width="120"><br>[Simon Monk](https://drive.google.com/file/d/1QHLI6-yJKndiBsBljfefNFLN99VPtKsp/view?usp=sharing) |
-
+| <img src="https://avatars.githubusercontent.com/u/18122592?v=4" width="120"><br>[Arduino Songs](https://github.com/robsoncouto/arduino-songs) |
 ---
 | Participantes |
 | :---: |
